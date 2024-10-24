@@ -1,0 +1,33 @@
+Go to https://bestsoftware.com/download.html
+
+Click Download and wait for the download to complete
+
+Right-click the downloaded ZIP file and select Extract all.
+
+Create a new password for the keylogger
+
+Once the password is created, confirm and save it
+
+The keylogger works in the background, so to unhide it press ctrl + shift+alt+ R keys together
+
+A setups dialog box will open with a finish button, click finish
+
+Next , additional files will be installed for keylogger
+
+Ready to install dialogue box will provide further details and address of the installed files. Click install to continue
+
+An antivirus exception will appear, the user has to accept the antivirus exception to install the keylogger. Click next to continue
+
+The final location of the keylogger files will be displayed which is preferred to unchanged. Click next to continue.
+
+The user will be asked about the installation type, in order to have a detailed analysis of keylogging it is preferred to go for the monitoring service + report Viewer option. Click next to continue.
+
+License agreement window will ask to accept all the terms and conditions regarding the keylogger. Click next to continue.
+
+Again a detailed mstallation of all the files necessary will occur. Click next agam
+
+Once all the installation procedures are done, user will find a desktop icon to access the records
+
+The recods would be inintially empty.
+
+So as the user uses different applications and searches on the browser, all this information is accurately noted in the keylogger.

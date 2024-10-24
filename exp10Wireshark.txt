@@ -1,0 +1,71 @@
+Procedure: To download Wireshark
+
+1. Open a web browser.
+
+2. Navigate to http://www.wireshark.org
+
+3.Select Download Wireshark.
+
+4. Select the Wireshark Windows Installer matching your system type, cither 32-bit or 64-bit as determined in Activity 1. Save the program in the Downloads folder
+
+5.Close the web browser.
+
+To install Wireshark:
+
+1. Open Windows Explorer. 2.Select the Downloads folder.
+
+3. Locate the version of Wireshark you downloaded in Activity 2 Double-click on the file to open IL
+
+4.If you see a User Account Control dialog box, select Yes to allow the program to make changes to this computer
+
+5.Select Next to start the Setup Wizard
+
+6.Review the license agreement. If you agree, select 1 Agree to continue
+
+7.Select Next to accept the default components.
+
+8. Select the shortcuts you would like to have created. Leave the file extensions selected. Select Next to continue
+
+9.Select Next to accept the default install location.
+
+10 Select Install to begin installation.
+
+11. Select Next > to install WinPcap.
+
+12.Select Next to start the Setup Wizard
+
+13. Review the license agreement. If you agree, select 1 Agree to continue
+
+14. Select Install to begin installation.
+
+15.Select Finish to complete the installation of WinPcap
+
+16.Select Next to continue with the installation of Wireshark
+
+17.Select Finish to complete the installation of Wireshark.
+
+Conclusion: Learnt how to install and configure Wireshark
+
+Procedure: To capture packer: Set up the Packet Capture
+
+1.Click View Wireless Toolbar. The Wireless Toolbar will appear just below the Main twofhar
+
+2.Use the Wireless Toolbar to configure the desired channel and channel width
+
+3.Under Capture, click on AirPcap USB wireless capture adapter to select the capture interface
+
+Nose. If the AirPcap isn't listed, press FS to refresh the list of available packet capture interfaces. The AirPcap has been discontinued by RiverBed and is 802.11n only
+
+4. Click the Start Capture button to begin the capture
+
+5. When you are finished capturing, click the Stop button.
+
+Saving the Capture:
+
+1. To save the capture, click File > Save.
+
+2. Name the file, and click Save.
+
+Note: Peap and Pcap-ng are good filetypes to use for the capture if you plan to use Eye PA. to open the capture
+
+3. Eye PA can now open the capture file
